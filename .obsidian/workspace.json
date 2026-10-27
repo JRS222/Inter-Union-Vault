@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "52a215678720d609",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d5cd911aa002a36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cc3e626d33a79dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30-39 External authorities/32 Handbooks/32.14 MI AS-530-90-5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "32.14 MI AS-530-90-5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "982c7c0a92c8816f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbdaf8237eb91b2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86716979f00dfc32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8c375f8681ec2924",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4e69574a9b92a507",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "196f1caef8e1dc3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "89913bc2dc08c6ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca173e803425da95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "30-39 External authorities/34 Statutes & regulations/34.13 FECA 5 USC 8102.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "34fcd22f453c9c98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "30-39 External authorities/34 Statutes & regulations/34.13 FECA 5 USC 8102.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "169d7dfd40737d62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c254b2a5a0402d3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2be8e5ef5d8d96dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "30-39 External authorities/34 Statutes & regulations/34.13 FECA 5 USC 8102.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "fe19f8235fa0e11a",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "58114dffa6bb29a3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "5cc3e626d33a79dd",
+  "lastOpenFiles": [
+    "30-39 External authorities/32 Handbooks/32.13 MS-63 Maintenance Management.md",
+    "30-39 External authorities/32 Handbooks/32.03 M-41 City Delivery Carriers Duties and Responsibilities.md",
+    "30-39 External authorities/32 Handbooks/32.01 ASM Claims Procedures.md",
+    "30-39 External authorities/31 ELM/31.11 ELM 444 Rural Letter Carrier Compensation.md",
+    "30-39 External authorities/31 ELM/31.12 ELM 666.3 Whistleblower Protection.md",
+    "30-39 External authorities/31 ELM/31.13 ELM 814.1 Safety Rights.md",
+    "30-39 External authorities/31 ELM/31.03 ELM 434.141 Eligibility and Exhibit.md",
+    "30-39 External authorities/31 ELM/31.05 ELM 435 Severance Pay.md",
+    "30-39 External authorities/31 ELM/31.08 ELM 546.md",
+    "00-09 Meta & system/00.06 Build Log.md",
+    "00-09 Meta & system/00.05 Workspace Inventory.md",
+    "00-09 Meta & system/00.03 Relationship types.md",
+    "00-09 Meta & system/00.01 Conventions & Design.md",
+    "00-09 Meta & system/00.00 JD Index.md",
+    "00-09 Meta & system/00.07 Audit Reports/Phase 1 Audit.md",
+    "Sources/Steward Training/Large Office Issues Workshop/RI-399 Documents/2018 Update MOU Q&As - 8-10-18.pdf",
+    "Sources/Steward Training/Labor Law Fundamentals Workshop/Labor Law.pdf",
+    "Sources/Steward Training/Innovative Organizing Training/Step 4 APWU Re Orientation.pdf",
+    "Sources/Steward Training/Innovative Organizing Training/3 PSE Brochure REV Mar 2022 Benefits at Glance.pdf",
+    "Sources/Steward Training/Innovative Organizing Training/2 Welcome to the APWU Booklet.pdf",
+    "Sources/Steward Training/Innovative Organizing Training/1 Organization Department Power Point.pdf",
+    "Sources/Steward Training/Innovative Organizing Training/1 2022 Organizing Journal National Convention.pdf",
+    "Sources/Steward Training/Fighting Discipline/DISCIPLINE BOOK Revised 2023.pdf",
+    "Sources/Steward Library/2.13 WebEOR.md",
+    "Sources/Steward Library/2.12 eMARS User Guide.md",
+    "Sources/Steward Library/2.11.03.05 APWU Constitution.md",
+    "Sources/Steward Library/2.06 Shop Steward's Training Manual.md",
+    "Sources/Steward Library/2.11 Union Election 2024/2.11.06 Letter to NEAC regarding letter to LEC.md",
+    "Sources/Steward Library/2.11 Union Election 2024/2.11.05 Letter to the Local Election Committee.md",
+    "Sources/Steward Library/2.11 Union Election 2024/2.11.04 NEAC Letter to Collect Evidence.md",
+    "Sources/Steward Library/2.11 Union Election 2024/2.11.03 Legal Outline for Union Election 2024.md",
+    "Sources/Steward Library/2.11 Union Election 2024/2.11.02 Letter to National Election Appeals Committee.md",
+    "Sources/Steward Library/2.11 Union Election 2024/2.11.01 Union Election Questions.md",
+    "Sources/Steward Library/2.10 Labor Law/2.10.02 National Labor Relations Act (NLRA)/2.10.02.04 Rehabilitation Act.md",
+    "Sources/LaborChecklistProd/Relevant Documentation/ASM - Administrative Support Manual, Updated through 01-21.pdf",
+    "Sources/LaborChecklistProd/Relevant Documentation/How to download webEOR reports.pdf",
+    "Sources/Steward Training/APWU Contract/page_99.png",
+    "Sources/Steward Training/APWU Contract/page_98.png",
+    "Sources/Steward Training/APWU Contract/page_97.png",
+    "Sources/Steward Training/APWU Contract/page_96.png",
+    "Sources/Steward Training/APWU Contract/page_95.png",
+    "Sources/Steward Training/APWU Contract/page_94.png",
+    "Sources/Steward Training/APWU Contract/page_93.png",
+    "Sources/Steward Training/APWU Contract/page_92.png",
+    "Sources/Steward Training/APWU Contract/page_91.png",
+    "Sources/Steward Training/APWU Contract/page_560.png"
+  ]
+}
