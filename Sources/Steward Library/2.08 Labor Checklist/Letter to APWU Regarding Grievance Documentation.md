@@ -1,7 +1,4 @@
-**Joseph Shaw**  
-South Shore Local #3844
-58 Austin Street, Norwood, MA 02062  
-joseph.r.shavv@gmail.com | 412-600-4744
+
 6 June 2025  
 
 **APWU Research & Education Department**
@@ -76,12 +73,11 @@ I'd appreciate the opportunity to demonstrate this system and discuss how it cou
 
 ### **Next Steps**  
 1. Please provide the requested documents when available  
-2. Contact me at [412-600-4744/joseph.r.shavv@gmail.com] to schedule a brief demo  
-3. You can find the project at https://github.com/JRS222/LaborChecklistProd and follow the README to use it. Alternatively, you can call or email me and I will happily show you how it all works. 
+2. Contact me at  to schedule a brief demo  
+3. You can find the project at and follow the README to use it. Alternatively, you can call or email me and I will happily show you how it all works. 
 4. I will include some accompanying data to send to you as a sample. Here is a video of how it all works: https://www.youtube.com/watch?v=CztE-XfGq5g
 
 Thank you for considering this tool to strengthen our grievance work. I look forward to discussing how we can empower more locals with data-driven advocacy.  
 
 In solidarity,  
-**Joseph Shaw**  
-South Shore Local #3844  
+*

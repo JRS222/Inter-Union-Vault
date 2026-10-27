@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-39 External authorities/32 Handbooks/32.14 MI AS-530-90-5.md",
+                "file": "30-39 External authorities/32 Handbooks/32.21 EL-814 Postal Employees Guide to Safety.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "32.14 MI AS-530-90-5"
+              "title": "32.21 EL-814 Postal Employees Guide to Safety"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Pittsburgh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,6 +212,21 @@
   },
   "active": "5cc3e626d33a79dd",
   "lastOpenFiles": [
+    "40-49 Organizing materials/44 Campaign materials/44.04 Union Election 2024 — NEAC Letter to Collect Evidence.md",
+    "40-49 Organizing materials/44 Campaign materials/44.02 Union Election 2024 — Letter to National Election Appeals Committee.md",
+    "Sources/Steward Library/2.11 Union Election 2024/2.11.06 Letter to NEAC regarding letter to LEC.md",
+    "Sources/Steward Library/2.11 Union Election 2024/2.11.05 Letter to the Local Election Committee.md",
+    "Sources/Steward Library/2.11 Union Election 2024/2.11.04 NEAC Letter to Collect Evidence.md",
+    "Sources/Steward Library/2.11 Union Election 2024/2.11.03 Legal Outline for Union Election 2024.md",
+    "Sources/Steward Library/2.11 Union Election 2024/2.11.02 Letter to National Election Appeals Committee.md",
+    "Sources/Steward Library/2.08 Labor Checklist/Python Script Development.md",
+    "Sources/Steward Library/2.08 Labor Checklist/Letter to APWU Regarding Grievance Documentation.md",
+    "40-49 Organizing materials/44 Campaign materials/44.03 Union Election 2024 — Legal Outline.md",
+    "40-49 Organizing materials/42 Rank-and-file explainers/42.05 Maintenance Staffing Strategy and Grievance Guide.md",
+    "README.md",
+    "Sources/README.md",
+    "Sources/Steward Training/APWU Contract/page_150.png",
+    "30-39 External authorities/32 Handbooks/32.14 MI AS-530-90-5.md",
     "30-39 External authorities/32 Handbooks/32.13 MS-63 Maintenance Management.md",
     "30-39 External authorities/32 Handbooks/32.03 M-41 City Delivery Carriers Duties and Responsibilities.md",
     "30-39 External authorities/32 Handbooks/32.01 ASM Claims Procedures.md",
@@ -223,9 +239,6 @@
     "00-09 Meta & system/00.06 Build Log.md",
     "00-09 Meta & system/00.05 Workspace Inventory.md",
     "00-09 Meta & system/00.03 Relationship types.md",
-    "00-09 Meta & system/00.01 Conventions & Design.md",
-    "00-09 Meta & system/00.00 JD Index.md",
-    "00-09 Meta & system/00.07 Audit Reports/Phase 1 Audit.md",
     "Sources/Steward Training/Large Office Issues Workshop/RI-399 Documents/2018 Update MOU Q&As - 8-10-18.pdf",
     "Sources/Steward Training/Labor Law Fundamentals Workshop/Labor Law.pdf",
     "Sources/Steward Training/Innovative Organizing Training/Step 4 APWU Re Orientation.pdf",
@@ -234,17 +247,6 @@
     "Sources/Steward Training/Innovative Organizing Training/1 Organization Department Power Point.pdf",
     "Sources/Steward Training/Innovative Organizing Training/1 2022 Organizing Journal National Convention.pdf",
     "Sources/Steward Training/Fighting Discipline/DISCIPLINE BOOK Revised 2023.pdf",
-    "Sources/Steward Library/2.13 WebEOR.md",
-    "Sources/Steward Library/2.12 eMARS User Guide.md",
-    "Sources/Steward Library/2.11.03.05 APWU Constitution.md",
-    "Sources/Steward Library/2.06 Shop Steward's Training Manual.md",
-    "Sources/Steward Library/2.11 Union Election 2024/2.11.06 Letter to NEAC regarding letter to LEC.md",
-    "Sources/Steward Library/2.11 Union Election 2024/2.11.05 Letter to the Local Election Committee.md",
-    "Sources/Steward Library/2.11 Union Election 2024/2.11.04 NEAC Letter to Collect Evidence.md",
-    "Sources/Steward Library/2.11 Union Election 2024/2.11.03 Legal Outline for Union Election 2024.md",
-    "Sources/Steward Library/2.11 Union Election 2024/2.11.02 Letter to National Election Appeals Committee.md",
-    "Sources/Steward Library/2.11 Union Election 2024/2.11.01 Union Election Questions.md",
-    "Sources/Steward Library/2.10 Labor Law/2.10.02 National Labor Relations Act (NLRA)/2.10.02.04 Rehabilitation Act.md",
     "Sources/LaborChecklistProd/Relevant Documentation/ASM - Administrative Support Manual, Updated through 01-21.pdf",
     "Sources/LaborChecklistProd/Relevant Documentation/How to download webEOR reports.pdf",
     "Sources/Steward Training/APWU Contract/page_99.png",
@@ -255,7 +257,6 @@
     "Sources/Steward Training/APWU Contract/page_94.png",
     "Sources/Steward Training/APWU Contract/page_93.png",
     "Sources/Steward Training/APWU Contract/page_92.png",
-    "Sources/Steward Training/APWU Contract/page_91.png",
-    "Sources/Steward Training/APWU Contract/page_560.png"
+    "Sources/Steward Training/APWU Contract/page_91.png"
   ]
 }

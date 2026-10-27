@@ -42,9 +42,3 @@ The APWU Steward Training kit — 1,275 files, organized by the kit's own folder
 Where the vault already held a newer edition (CBA 2024–2027, JCIM Nov 2025, newer
 EL-307/MS-47/MS-63), those newer texts stay in the vault and the older copies here
 are kept for reference only.
-
-## Not included
-
-Your personal case folders (OSHA Issue, Harassment & OWCP Claim) are deliberately
-not copied here — per your instruction those were anonymized into procedure notes,
-and the raw files stay in your private vault.
