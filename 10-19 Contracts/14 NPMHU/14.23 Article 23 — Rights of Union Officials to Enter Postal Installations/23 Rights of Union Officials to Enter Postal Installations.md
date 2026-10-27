@@ -2,6 +2,7 @@
 
 
 
+
 type: section
 contract: NPMHU
 edition: "2022"
@@ -22,7 +23,7 @@ transcription_notes: "Article 23 carries no section headings; transcribed as one
 topics: [topic/union-rights, topic/union-rights/access]
 provision_type: right
 references: []
-counterparts: []
+counterparts:
   - target: "[[NRLCA §23]]"
     relation: parallel
     note: "Installation access conditions shared."

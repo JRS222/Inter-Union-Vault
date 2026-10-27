@@ -2,6 +2,7 @@
 
 
 
+
 type: section
 contract: NRLCA
 edition: "2024"
@@ -22,7 +23,7 @@ transcription_notes: ""
 topics: [topic/union-rights/access]
 provision_type: right
 references: []
-counterparts: []
+counterparts:
   - target: "[[NPMHU §23]]"
     relation: parallel
     note: "Installation access conditions shared."

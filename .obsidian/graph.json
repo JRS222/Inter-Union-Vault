@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 884922
       }
+    },
+    {
+      "query": "Labor-Lookup",
+      "color": {
+        "a": 1,
+        "rgb": 10999276
+      }
     }
   ],
   "collapse-display": false,
@@ -49,10 +56,10 @@
   "nodeSizeMultiplier": 2.39941463414634,
   "lineSizeMultiplier": 0.441326829268293,
   "collapse-forces": false,
-  "centerStrength": 0.125853658536585,
+  "centerStrength": 0.450536585365854,
   "repelStrength": 20,
-  "linkStrength": 0.38809756097561,
+  "linkStrength": 1,
   "linkDistance": 105,
-  "scale": 0.0078125,
+  "scale": 0.08317427835927532,
   "close": false
 }

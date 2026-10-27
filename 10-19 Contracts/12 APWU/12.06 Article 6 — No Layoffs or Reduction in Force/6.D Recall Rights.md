@@ -16,6 +16,7 @@
 
 
 
+
 type: section
 contract: APWU
 edition: "2024"
@@ -36,7 +37,7 @@ transcription_notes: ""
 topics: [topic/job-security, topic/job-security/layoffs]
 provision_type: right
 references: []
-counterparts: []
+counterparts:
   - target: "[[NRLCA §6]]"
     relation: divergent
     note: "One-sentence term-length bar vs the eight-section Healy framework; non-career rural classes excluded."

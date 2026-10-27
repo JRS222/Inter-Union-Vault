@@ -23,6 +23,7 @@
 
 
 
+
 type: section
 contract: NRLCA
 edition: "2024"
@@ -43,7 +44,7 @@ transcription_notes: ""
 topics: [topic/job-security/layoffs]
 provision_type: right
 references: []
-counterparts: []
+counterparts:
   - target: "[[NPMHU §6.8]]"
     relation: divergent
     note: "One-sentence term-length bar vs the eight-section Healy framework; non-career rural classes excluded."

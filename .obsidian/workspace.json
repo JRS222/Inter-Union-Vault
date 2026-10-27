@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7d5cd911aa002a36",
+        "id": "e7921ae802b4ba4f",
         "type": "tabs",
         "children": [
           {
-            "id": "5cc3e626d33a79dd",
+            "id": "027164e6aea0a4ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-39 External authorities/32 Handbooks/32.21 EL-814 Postal Employees Guide to Safety.md",
+                "file": "20-29 Cross-union topics/29 Job security & subcontracting/29.02 Subcontracting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "32.21 EL-814 Postal Employees Guide to Safety"
+              "title": "29.02 Subcontracting"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pittsburgh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,35 +209,37 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5cc3e626d33a79dd",
+  "active": "027164e6aea0a4ab",
   "lastOpenFiles": [
-    "40-49 Organizing materials/44 Campaign materials/44.04 Union Election 2024 — NEAC Letter to Collect Evidence.md",
-    "40-49 Organizing materials/44 Campaign materials/44.02 Union Election 2024 — Letter to National Election Appeals Committee.md",
-    "Sources/Steward Library/2.11 Union Election 2024/2.11.06 Letter to NEAC regarding letter to LEC.md",
-    "Sources/Steward Library/2.11 Union Election 2024/2.11.05 Letter to the Local Election Committee.md",
-    "Sources/Steward Library/2.11 Union Election 2024/2.11.04 NEAC Letter to Collect Evidence.md",
-    "Sources/Steward Library/2.11 Union Election 2024/2.11.03 Legal Outline for Union Election 2024.md",
-    "Sources/Steward Library/2.11 Union Election 2024/2.11.02 Letter to National Election Appeals Committee.md",
-    "Sources/Steward Library/2.08 Labor Checklist/Python Script Development.md",
-    "Sources/Steward Library/2.08 Labor Checklist/Letter to APWU Regarding Grievance Documentation.md",
-    "40-49 Organizing materials/44 Campaign materials/44.03 Union Election 2024 — Legal Outline.md",
-    "40-49 Organizing materials/42 Rank-and-file explainers/42.05 Maintenance Staffing Strategy and Grievance Guide.md",
-    "README.md",
-    "Sources/README.md",
-    "Sources/Steward Training/APWU Contract/page_150.png",
-    "30-39 External authorities/32 Handbooks/32.14 MI AS-530-90-5.md",
-    "30-39 External authorities/32 Handbooks/32.13 MS-63 Maintenance Management.md",
-    "30-39 External authorities/32 Handbooks/32.03 M-41 City Delivery Carriers Duties and Responsibilities.md",
-    "30-39 External authorities/32 Handbooks/32.01 ASM Claims Procedures.md",
-    "30-39 External authorities/31 ELM/31.11 ELM 444 Rural Letter Carrier Compensation.md",
+    "Sources/LaborChecklistProd/Machine Labor Rubrics/MMO-002-18-SHRED-CA/MMO-002-18.pdf",
+    "20-29 Cross-union topics/22 Hours & scheduling/22.02 Work Schedules & Limits.md",
+    "2026-10-27.md",
+    "20-29 Cross-union topics/22 Hours & scheduling/22.01 Hours of Work.md",
+    "20-29 Cross-union topics/21 Compensation/21.05 Penalty Pay.md",
+    "20-29 Cross-union topics/21 Compensation/21.01 Compensation.md",
+    "10-19 Contracts/12 APWU/12.10 Article 10 — Leave/10.3 Choice of Vacation Period.md",
+    "10-19 Contracts/12 APWU/12.04 Article 4 — Technological and Mechanization Changes/12.04 Article 4 — Technological and Mechanization Changes.md",
+    "10-19 Contracts/11 NALC/11.04 Article 4 — Technological and Mechanization Changes/11.04 Article 4 — Technological and Mechanization Changes.md",
+    "30-39 External authorities/34 Statutes & regulations/34.08 RIF 5 USC 3502.md",
     "30-39 External authorities/31 ELM/31.12 ELM 666.3 Whistleblower Protection.md",
-    "30-39 External authorities/31 ELM/31.13 ELM 814.1 Safety Rights.md",
-    "30-39 External authorities/31 ELM/31.03 ELM 434.141 Eligibility and Exhibit.md",
-    "30-39 External authorities/31 ELM/31.05 ELM 435 Severance Pay.md",
-    "30-39 External authorities/31 ELM/31.08 ELM 546.md",
-    "00-09 Meta & system/00.06 Build Log.md",
-    "00-09 Meta & system/00.05 Workspace Inventory.md",
-    "00-09 Meta & system/00.03 Relationship types.md",
+    "Sources/LaborChecklistProd/Machine Labor Rubrics/MMO-036-23-SDUS-EA/MMO-036-23.pdf",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-036-23 SDUS-EA Labor Lookup.md",
+    "10-19 Contracts/15 MOUs & side letters/15.02 APWU MOUs/Expedited Arbitration.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-041-98 TOWVE-LA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-041-04 SSIU-GA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-040-98 IDUCT-AA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-040-13 LCREM-AA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-040-04 SSIU-CA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-039-98 CONTL-BA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-038-98 CONTU-AA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-038-98 CONTL-AA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-038-01 IDUCT-AA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-037-98 RSR-AA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-037-98 RACK-AA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-037-18 COMPACT-BA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups/MMO-037-18 COMPACT-AA Labor Lookup.md",
+    "30-39 External authorities/32 Handbooks/32.25 Labor Lookups",
+    "Sources/Steward Training/APWU Contract/page_150.png",
     "Sources/Steward Training/Large Office Issues Workshop/RI-399 Documents/2018 Update MOU Q&As - 8-10-18.pdf",
     "Sources/Steward Training/Labor Law Fundamentals Workshop/Labor Law.pdf",
     "Sources/Steward Training/Innovative Organizing Training/Step 4 APWU Re Orientation.pdf",
@@ -247,8 +248,6 @@
     "Sources/Steward Training/Innovative Organizing Training/1 Organization Department Power Point.pdf",
     "Sources/Steward Training/Innovative Organizing Training/1 2022 Organizing Journal National Convention.pdf",
     "Sources/Steward Training/Fighting Discipline/DISCIPLINE BOOK Revised 2023.pdf",
-    "Sources/LaborChecklistProd/Relevant Documentation/ASM - Administrative Support Manual, Updated through 01-21.pdf",
-    "Sources/LaborChecklistProd/Relevant Documentation/How to download webEOR reports.pdf",
     "Sources/Steward Training/APWU Contract/page_99.png",
     "Sources/Steward Training/APWU Contract/page_98.png",
     "Sources/Steward Training/APWU Contract/page_97.png",
